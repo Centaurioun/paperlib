@@ -37,13 +37,13 @@
   ],
   "dependencies": {
     "electron-store": "8.1.0",
-    "electron-updater": "5.0.1",
-    "electron": "26.6.5",
+    "electron-updater": "6.3.0",
+    "electron": "28.3.2",
     "electron-log": "4.4.8",
     "citation-js": "0.6.4",
     "pinia": "2.1.7",
-    "fast-xml-parser": "4.0.6",
+    "fast-xml-parser": "4.1.2",
     "realm": "11.10.2",
-    "tough-cookie": "4.0.0"
+    "tough-cookie": "4.1.3"
   }
 }
